@@ -6,3 +6,4 @@
 - [Code Review процесс](code-review.md)
 - [Анкета с вопросами заказчику](questionnaire.docx)
 - [Анкета с ответами заказчика на вопросы](questionnaire_answ.pdf)
+- [Протокол встречи 19.10.2025](protocol_19.10.2025.docx)
