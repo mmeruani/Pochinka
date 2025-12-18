@@ -8,3 +8,4 @@
 - [Анкета с ответами заказчика на вопросы](questionnaire_answ.pdf)
 - [Протокол встречи 19.10.2025](protocol_final_19.10.2025.pdf)
 - [Календарный план разработки](PochinkaGanttPro.pdf)
+- [Техническое задание](TI_GamblingAlarm.pdf)
